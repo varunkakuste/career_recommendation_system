@@ -33,8 +33,8 @@ public class CareerParser {
 	private List<SkillsProficiencyBean> result = null;
 
 	// directories of various system files
-	public final static String DELIMITERS_FILE = "C:\\Users\\Varun\\Desktop\\Career_Path_Recommendation\\Job_Description_Parser\\src\\delimiters.txt";
-	public final static String VERBS_FILE = "C:\\Users\\Varun\\Desktop\\Career_Path_Recommendation\\Job_Description_Parser\\src\\verbs.txt";
+	public final static String DELIMITERS_FILE = "please give your systems path\\delimiters.txt";
+	public final static String VERBS_FILE = "please give your systems path\\verbs.txt";
 
 	public CareerParser(){
 		keywordsFound = new TreeMap<String, Integer>();
